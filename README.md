@@ -36,9 +36,9 @@ This is a simple Python 3.10 command-line tool designed for learning purposes. I
 - For historical data of multiple stocks: Enter multiple symbols separated by commas (e.g.,
   BBCA.JK,BBRI.JK,XXXX.JK,ZZZZ.JK).
 
-3. Disclaimer :
+## Disclaimer :
 This tool is for educational purposes only. Do not use it for actual trading. The tool uses publicly available data and
 may not be accurate. The developers are not responsible for any financial losses incurred through the use of this tool.
 
-4. License:
+## License:
 This project is licensed under the MIT License - see the LICENSE file for details.
